@@ -23,6 +23,5 @@
   },
   "dependencies": {
     "cypress": "10.0.1"
-  },
-  "heroku-run-build-script": true
+  }
 }
